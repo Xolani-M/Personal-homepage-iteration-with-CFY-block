@@ -1,0 +1,103 @@
+/* =================
+  WRITE YOUR CSS HERE.
+  Check the ⌄ for help with formatting and validating your code.
+  You must write some CSS to complete this challenge.
+   ===================
+*/
+html,
+body {
+  margin: 0;
+  height: 100%;
+  background-image: url(https://images.unsplash.com/photo-1528459801416-a9e53bbf4e17?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=412&q=80);
+}
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
+
+.h1  {
+  text-align: center;
+  box-shadow: rgb(38, 57, 77) 0px 20px 30px -10px;
+  color: white;
+  text-shadow: 1px 1px 2px blue, 0 0 25px black, 0 0 5px gold;
+  background-color: DarkSlateGray;
+}
+
+.center {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto; 
+  width: 50%;
+  background-color: #E6E6FA; 
+  
+  
+}
+
+.paragraph {
+ text-align: center;
+  background-image: radial-gradient(Lavender 1%, lavender 1%, 	lavender 60%);
+  color: DarkSlateGray;
+  text-align: left;
+  font-family: ;
+  
+}
+
+.c-site-footer {
+  
+  color: white;
+  background-color: black; 
+  
+}
+
+.h4 {
+  color: white;
+  text-shadow: 1px 1px 2px black, 0 0 25px darkblue, 0 0 5px darkblue;
+  background-color: powderblue;
+  text-align: center;
+}
+
+
+.img {
+  
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;  
+  height: 400px;
+}
+
+.link-text {
+  font-size: 10px;
+  color: blue;
+}
+
+.h5 {
+  background-image: radial-gradient(lightgrey 1%, #E6E6FA 20%, pink 70%);
+font- size: 15px;
+  
+}
+
+
+.anotherh4 {
+  
+ background-color: #E6E6FA;
+  font-family: monospace;
+   
+}
+
+
+
+.article-image {
+  width: 30%;
+  height:581px;
+  
+}
+
+/* don't edit this */
+.jest-lite-report__status--pass {
+  background: var(--color-pass);
+}
+.jest-lite-report__errors { display:none }
